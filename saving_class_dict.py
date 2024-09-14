@@ -4,7 +4,7 @@ import os
 from collections import defaultdict
 import json
 
-model = YOLOv10('pretrained/yolov10l.onnx')
+model = YOLOv10('pretrained/yolov10l.pt')
 idx = 0
 object_dict = defaultdict(lambda: defaultdict(lambda: {"count": 0}))
 
