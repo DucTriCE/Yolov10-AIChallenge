@@ -1,0 +1,21 @@
+{
+    "0": {
+        "person": {
+            "count": 38
+        },
+        "handbag": {
+            "count": 7
+        },
+        "backpack": {
+            "count": 5
+        },
+        "frisbee": {
+            "count": 1
+        }
+    },
+    "1": {
+        "person": {
+            "count": 4
+        }
+    }
+}
