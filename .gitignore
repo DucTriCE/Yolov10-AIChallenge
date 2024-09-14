@@ -114,7 +114,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.rar
 # Spyder project settings
 .spyderproject
 .spyproject
